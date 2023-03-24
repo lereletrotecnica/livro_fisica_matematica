@@ -1,0 +1,11 @@
+# Apresentação {.unnumbered}
+
+O Novo Ensino Médio (NEM) é focado no protagonismo e na autonomia dos estudantes, que podem escolher de acordo com as áreas de interesse, facilitando a carreira profissional e a preparação para o mundo do trabalho.
+
+No Distrito Federal, o NEM teve início em 2020 por meio de escolas pilotos e deverão ser aplicadas em todas as escolas a partir de 2022, mas ainda de forma progressiva [@seedf1].
+
+Dessa maneira, o novo ensino médio objetiva proporcionar ao aluno: apoio pedagógico; aulas práticas; aproveitamento dos conhecimentos prévios dos estudantes; e auxiliar na elaboração de projetos de vida.
+
+Em consonância com as melhores práticas pedagógicas, este livro reune teoria e prática. A sua metodologia apresenta textos teóricos, exemplos de aplicações, vídeos e exercícios. Dessa forma, o aluno tem todo o material necessário ao seu estudo teórico, fixação do conhecimento e avaliação em um mesmo local.
+
+Este livro visa guiar o aluno pela disciplina de ***Matemática Aplicada às Ciências da Natureza*** enquadrada no itinerário formativo do novo ensino médio. Porém, pode ser utilizado de forma parcial em outras matérias ou atividades.

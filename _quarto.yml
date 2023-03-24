@@ -1,0 +1,77 @@
+project:
+  type: book
+  output-dir: _book
+
+
+book:
+  title: "Matemática Aplicada às Ciências da Natureza"
+  author: "Prof. Lucas Enéas de Rezende"
+  #date: today
+  reader-mode: true
+  page-navigation: true
+  page-footer:
+   background: "#294661"
+   center:
+    - text: "Secretaria de Estado de Educação do Distrito Federal"
+      href: https://www.educacao.df.gov.br/
+    - text: "Governo do Distrito Federal"
+      href: https://www.df.gov.br/
+  cover-image: img/brasao_gdf.png
+  #logo: images/brasao_ouvidoria.jpeg
+  image: images/simbolo_gdf.jfif
+  site-url: https://www.gov.br/depen/pt-br
+  sharing: [twitter, facebook, linkedin]
+  search:
+    location: sidebar
+    type: textbox
+
+  sidebar:
+    font.family: 'Calibri'
+    title: "Matemática Aplicada às Ciências das Natureza"
+    subtitle: "Material de apoio"
+    background: "white"
+    items:
+    logo: img/brasao_gdf.png
+    style: docked
+    alignment: left
+    tools:
+      - icon: git
+      - href: https://www.gov.br/depen/pt-br/canais_atendimento/ouvidoria
+
+  chapters:
+    - index.qmd
+    - informacoes_iniciais.qmd
+    - introducao.qmd
+
+
+
+bibliography: referencias.bib
+
+format:
+  html:
+    embed-resources: false #COLOCA TODOS OS ARQUIVOS JUNTOS
+    theme: cosmo
+    code-link: true
+    css: style.css
+    #page-layout: custom
+  pdf:
+    documentclass: scrreprt
+
+knitr:
+  opts_chunk:
+    fig.align: "center"
+    message: false
+    echo: false
+    results: true
+    dpi: 300
+    warning: false
+    out-width: NULL
+    fig.responsive: TRUE
+
+
+lang: pt
+csl: abnt.csl
+
+editor: visual
+
+
