@@ -1,0 +1,21 @@
+# Conhecimento Científico {#sec-conhecimento-cientifico}
+
+O conhecimento científico basea-se em ***fatos***, ou seja, na observação controlada e criteriosa de vários fenômenos, dessa forma, cientistas tentam entender se há relação entre esses fenômenos.
+
+Esse capítulo traz temos importantes acerca do conhecimento científico. A [seção @sec-definicao] traz a definição e formas de construção do conhecimento científico.
+
+## Definição de Conhecimento Científico {#sec-definicao}
+
+A método utilizado para construção do conhecimento científico deve ser lógico, ou seja, deve fazer sentido e representar a realidade. E o primeiro passo dessa metodologia consiste em termos um "palpite" sobre a ocorrência fato que se quer estudar, ou seja, formula-se uma ***hipótese*** [@amabis2020ciencias].
+
+Dessa forma, podemos conceituar o conhecimento científico
+
+## Conhecimento Científico versus Sabedoria Popular {#sec-sabedoria-popular}
+
+Vimos na [seção @sec-definicao] que o conhecimento científico precisa de observação, experimentação, razão, lógica e comprovação dos fatos para ser validado. Por outro lado, e bons métodos
+
+## Como os cientistas se comunicam? {#sec-comunicacao}
+
+## Conhecimento Científico em Ciências Naturais {#sec-conhecimento-ciencias-naturais}
+
+## Exemplos de Experimentos Científicos
