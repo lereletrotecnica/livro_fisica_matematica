@@ -2,7 +2,7 @@
 
 O conhecimento científico basea-se em ***fatos***, ou seja, na observação controlada e criteriosa de vários fenômenos, dessa forma, cientistas tentam entender se há relação entre esses fenômenos.
 
-Esse capítulo traz temos importantes acerca do conhecimento científico. A [seção @sec-definicao] traz a definição e formas de construção do conhecimento científico.
+Esse capítulo traz temos importantes acerca do conhecimento científico, dessa forma: A [seção @sec-definicao] traz a definição e formas de construção do conhecimento científico; a segunda parte, [seção @sec-metodologia], trata dos procedimentos lógicos a serem seguidos para realizar uma boa pesquisa; A [seção @sec-sabedoria-popular] compara o conhecimento científico e a sabedoria popular; O próximo tópico ([seção @sec-comunicacao]), demonstra a importância da divulgação dos resultados e experimentos científicos; A [seção @sec-conhecimento-ciencias-naturais] trata do conhecimento científico aplicado às ciências da natureza e decreve três ramos importantes da mesma, sendo, a física, a química e a biologia; Por fim, a última parte deste capítulo ([seção @sec-exemplos-experimentos]) traz exemplos de importantes experimentos realizados por cientistas renomados.
 
 ## Definição de conhecimento científico {#sec-definicao}
 
@@ -18,11 +18,11 @@ Assista o vídeo abaixo para complementar seus estudos sobre esse conceito.
 
 {{< video https://youtu.be/_hql_QgCX3Y >}}
 
-## A metodologia do conhecimento científico
+## A metodologia do conhecimento científico {#sec-metodologia}
 
 E o primeiro passo dessa metodologia consiste em termos um "palpite" sobre a ocorrência fato que se quer estudar, ou seja, formula-se uma ***hipótese***. O construção do conhecimento científico geralmente começa com alguma pergunta: "Por que esse fenômeno ocorre?" ou "Qual a relação entre determinado fenômeno e outro?". Quando os pesquisadores fazem essas perguntas, na maioria das vezes, eles já tem alguma ideia da resposta e querem comprová-la. Essa possível resposta é o que chamamos de ***hipótese*** [@amabis2020ciencias].
 
-Depois de formulada uma hipótese, a mesma deve ser testada rigorosamente. O ***teste de hipótese*** fornece ferramentas que nos permitem rejeitar ou não rejeitar uma hipótese. Ele consiste em imaginar uma situação em que determinados fatos e consequências ocorreriam somente se a hipótese testada fosse "verdadeira". Dessa forma, o cientista pode fazer deduções e prever o que acontecerá em uma nova situação onde a hipótese também será verdadeira. Essa metodologia chama-se ***Hipotético-dedutiva*** [@amabis2020ciencias].
+Depois de formulada uma hipótese, a mesma deve ser testada rigorosamente. O ***teste de hipótese*** fornece ferramentas que nos permitem rejeitar ou não rejeitar uma hipótese. Ele consiste em imaginar uma situação em que determinados fatos e consequências ocorreriam somente se a hipótese testada fosse "verdadeira". Dessa forma, o cientista pode fazer deduções e prever o que acontecerá em uma nova situação onde a hipótese também será verdadeira. Essa metodologia chama-se ***hipotético-dedutiva*** [@amabis2020ciencias].
 
 Segue um resumo das procedimentos adotados por cientistas para construção do saber científico [@amabis2020ciencias]:
 
@@ -50,13 +50,13 @@ Veja mais sobre "senso comum" em:
 
 ## Como os cientistas se comunicam? {#sec-comunicacao}
 
-Para que o conhecimento tenha o efeito desejado, ele deve ser amplamente divulgado e outros pesquisadores possam tentar reproduzi-lo, testa-lo e critica-lo. Dessa maneira, teoria e hipótese devem ser publicadas em revistas científicas especializadas em formato de artigos. Tais revistas possuem corpo técnico qualicado para entender o estudo e aceitá-lo, caso esteja correto. A publicação dos resultados é imprescindível, pois dá credibilidade às informações levantadas, permitindo consulta e críticas [@amabis2020ciencias].
+Para que o conhecimento tenha o efeito desejado, ele deve ser amplamente divulgado e outros pesquisadores possam tentar reproduzí-lo, testá-lo e criticá-lo. Dessa maneira, teoria e hipótese devem ser publicadas em revistas científicas especializadas em formato de artigos. Tais revistas possuem corpo técnico qualicado para entender o estudo e aceitá-lo, caso esteja correto. A publicação dos resultados é imprescindível, pois dá credibilidade às informações levantadas, permitindo consulta e críticas [@amabis2020ciencias].
 
 Entre outros aspectos, as revistas científicas verificam:
 
--   Se o estudo é inédito (novo);
--   Se o assunto é relevante (importante);
--   Se o artigo tem metodologia adequada.
+-   se o estudo é inédito (novo);
+-   se o assunto é relevante (importante);
+-   se o artigo tem metodologia adequada.
 
 ::: callout-important
 ## Importantíssimo!!!
@@ -106,12 +106,50 @@ Quer saber mais sobre: "O que é Química?", [clique aqui.](https://brasilescola
 
 ### Biologia {#sec-biologia}
 
-O nome dessa ciência vem da junção de dois termos gregos: bio, que significa vida, e logos, que significa estudo. Assim sendo, dizemos que a Biologia é a ciência responsável por estudar a vida em todos os seus aspectos. Mas você deve estar perguntando-se: O que seria a vida? E, afinal, que aspectos são esses estudados pela Biologia?
+O nome dessa ciência vem da junção de dois termos gregos: bio, que significa vida, e logos, que significa estudo. Assim sendo, dizemos que a Biologia é a ciência responsável por estudar a vida em todos os seus aspectos. Mas você deve estar se perguntando: O que seria a vida? E, afinal, que aspectos são esses estudados pela Biologia?
 
 Por mais incrível que isso possa parecer, a primeira pergunta não é fácil de ser respondida, pois a vida não possui uma definição aceita por todos os cientistas. É muito difícil definir de maneira clara o que é a vida sem excluir alguns organismos claramente vivos. Até então, a grande maioria dos pesquisadores estabelece que um ser vivo é um organismo que apresenta metabolismo, reproduz-se e está sujeito aos processos evolutivos [@biologiaBrasilEscola2023].
 
 Veja mais em: [O que é biologia.](https://brasilescola.uol.com.br/o-que-e/biologia)
 
-## Exemplos de experimentos científicos
+## Exemplos de experimentos científicos {#sec-exemplos-experimentos}
+
+A seguir, vamos relatar dois importantes experimentos científicos em ciências naturais.
+
+-   Experimento de Charles Darwin e Francis Darwin publicado em 1880;
+
+-   Experimento de Karl Jansky publicado em 1930;
+
+### Os Experimentos de Charles e Francis Darwin {#sec-experimento-darwin}
+
+Pai e filho, Charles e Francis Darwin estudaram o comportamento de plantas onde as mesmas tendem a se direcionar para uma fonte de luz, seja ela, natural ou artificial.
+
+A pergunta inicial da estudo seria: "Qual parte da planta é sensível à fonte de luz?". Depois de várias observações, eles chegaram à hipótese de que a luz é percebida pela extremidade.
+
+Para testar essa hipótese, os pesquisadores cortaram e eliminaram as extremidades superiores de algumas plantas jovens de alpiste a as colocaram perto de uma fonte direcionada de luz; ao lado das plantas cortadas, eles colocaram plantas intactas, que serviam como elementos de comparação (controle experimental). Alguns dias depois eles verificaram que as plantas instactas haviam crescido curvando-se em direção à luz, enquanto as plantas decapitadas continuaram a crescer eretas, sem se curvar.
+
+Outra comparação foi realizada cobrindo a extremidade de algumas plantas de alpiste com sacos pretos à prova de luz, enquanto outra amostra de plantas de alpiste foi coberta em outras partes (caule, folhas, etc). O resultado verificado foi: As plantas com extremidades cobertas cresceram eretas, enquanto as outras cresceram se curvando para a fonte luminosa.
+
+Dessa forma, a hipótese foi aceita, pois verificou-se que a luz é recebida pela parte superior do caule da planta [@amabis2020ciencias].
+
+![As quatro formas de análise das plantas elaborado por Charles e Francis Darwin.](img/download.png){fig-align="center" width="400"}
+
+### Os Experimentos de Karl Jansky {#sec-experimento-jansky}
+
+Na década de 1930, as chamadas radiotelefônicas entre a América e a Europa apresentavam muito ruído. O engenheiro Karl Jansky foi contratado para resolver o problema.
+
+Após observar o problema, o cientista percebeu que os ruídos apresentavam regularidade, ou seja, eles aumentavam em certo período do dia e quando havia tempestades, além disso, a fonte produtora do fenômeno se deslocava de leste a oeste.
+
+Esses fatos, levaram Karl Jansky a crer que a fonte do ruído não estava no planeta Terra e, inicialmente supôs que a interferência vinha do sol.
+
+Porém, após mais observações e experimentos, Jansky percebeu que o ruído ***não*** era provenientes do sol, mas sim, os ruídos vinham de estrelas localizadas no centro de nosso galáxia, a Via Láctea.
+
+Os experimentos foram divulgados em publicações científicas, dessa forma, outros pesquisadores puderam ter acesso às informações e aprender mais com as descobertas.
+
+## Atividade {#sec-atividade-conhecimento-cientifico}
+
+Caros alunos, agora chegou a hora de fixarmos o conhecimento adquirido com a leitura e visualização deste capítulo.
+
+Para isto, [clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSdSMmWL33ICgXC7doGrUKaZs1rMB4LyfcmagRHLAFzSYBldQg/viewform?usp=sf_link) e responda o questionário on-line.
 
 ## Referências

@@ -2,16 +2,18 @@
 
 Produzir um bom material de consulta e aplicação dos conhecimentos - voltado ao incentivo da obtenção de autonomia intelectual do aluno - se torna a base para o alcance das metas educacionais.
 
-Este livro abarca os conteúdos da disciplina eletiva ***Matemática Aplicada às Ciências das Natureza***, porém pode ser utilizada de forma parcial com outros objetivos afins. Além de, temas relevantes para o fortalecimento das ideias matemáticas necessárias à aplicação dos conhecimentos, os assuntos abordados foram escolhidos com base na necessidades e objetivos do novo modelos educacional proposto. 
+Primeiramente, o professor necessita conhecer a realidade dos alunos e o meio onde eles estão inseridos. Dessa forma, solicitamos que todos os alunos preencham o [questionário socioescolar](https://docs.google.com/forms/d/e/1FAIpQLSeyOoTUfJSPIde8_FgBNJHsDwf1HO1KIu4X0mRI2MkEHYNCmg/viewform?usp=sf_link).
 
-O [capítulo @sec-conhecimento-cientifico] trata do conhecimento científico. Nesse sentido, deve-se aprender como se gera o conhecimento, especificamente, em ciências naturais. Em primeiro lugar, explana-se acerca dos fundamentos do saber científico. Em um segundo momento, aprende-se sobre a metodologia científica utilizada em ciências da natureza. Por fim, tem-se as formas de divulgação do conhecimento científico.    
+Este livro abarca os conteúdos da disciplina eletiva ***Matemática Aplicada às Ciências das Natureza***, porém pode ser utilizada de forma parcial com outros objetivos afins. Além de, temas relevantes para o fortalecimento das ideias matemáticas necessárias à aplicação dos conhecimentos, os assuntos abordados foram escolhidos com base na necessidades e objetivos do novo modelos educacional proposto.
 
-O uso da calculadora como ferramenta de estudo está descrito no [capítulo @sec-calculadora]. Nesse aborda-se: 
+O [capítulo @sec-conhecimento-cientifico] trata do conhecimento científico. Nesse sentido, deve-se aprender como se gera o conhecimento, especificamente, em ciências naturais. Em primeiro lugar, explana-se acerca dos fundamentos do saber científico. Em um segundo momento, aprende-se sobre a metodologia científica utilizada em ciências da natureza. Por fim, tem-se as formas de divulgação do conhecimento científico.
 
-A terceira parte ([capítulo @sec-vetores]) trata da importância e utilização de vetores, especialmente, na disciplina de física. 
+O uso da calculadora como ferramenta de estudo está descrito no [capítulo @sec-calculadora]. Nesse aborda-se:
+
+A terceira parte ([capítulo @sec-vetores]) trata da importância e utilização de vetores, especialmente, na disciplina de física.
 
 A notação científica aparece no [capítulo @sec-notacao-cientifica].
 
 O estudo de funções mais utilizada em ciências naturais encontra-se no [capítulo @sec-funcoes].
 
-Por fim, tem-se a expectativa de tornar a matemática menos abstrata, mais aplicável e, ao mesmo tempo, incentivar os estudantes a superar desafios.  
+Por fim, tem-se a expectativa de tornar a matemática menos abstrata, mais aplicável e, ao mesmo tempo, incentivar os estudantes a superar desafios.
