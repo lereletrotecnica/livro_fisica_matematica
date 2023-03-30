@@ -50,7 +50,7 @@ bibliography: referencias.bib
 
 format:
   html:
-    embed-resources: false #COLOCA TODOS OS ARQUIVOS JUNTOS
+    #embed-resources: false #COLOCA TODOS OS ARQUIVOS JUNTOS
     theme: cosmo
     code-link: true
     css: style.css
