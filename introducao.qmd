@@ -1,6 +1,6 @@
 # Introdução {.unnumbered}
 
-Produzir um bom material de consulta e aplicação dos conhecimentos - voltado ao incentivo da obtenção de autonomia intelectual do aluno - se torna a base para o alcance das metas educacionais. Teste commit
+Produzir um bom material de consulta e aplicação dos conhecimentos - voltado ao incentivo da obtenção de autonomia intelectual do aluno - se torna a base para o alcance das metas educacionais. 
 
 Primeiramente, o professor necessita conhecer a realidade dos alunos e o meio onde eles estão inseridos. Dessa forma, solicitamos que todos os alunos preencham o [questionário socioescolar](https://docs.google.com/forms/d/e/1FAIpQLSeyOoTUfJSPIde8_FgBNJHsDwf1HO1KIu4X0mRI2MkEHYNCmg/viewform?usp=sf_link).
 
